@@ -7,3 +7,4 @@ A simple analysis on e-commerce company data. Analysis of this data set with tot
 
 
 
+
